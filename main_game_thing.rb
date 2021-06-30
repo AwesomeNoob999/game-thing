@@ -1,4 +1,4 @@
-require "./map.rb"
+require_relative "./map.rb"
 
 puts "what your name"
 print "> "
